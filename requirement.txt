@@ -3,3 +3,7 @@ pandas
 pandas_profiling
 streamlit_pandas_profiling
 pycaret
+matplotlib
+seaborn
+numpy
+os
