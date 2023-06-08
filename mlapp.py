@@ -1,4 +1,25 @@
 import streamlit as st
+page_image_bg = f"""
+<style>
+[data-testid="stAppViewContainer"]{{
+background-image: url("https://cdn.pixabay.com/photo/2019/04/24/11/27/flowers-4151900_960_720.jpg");
+background-size: cover;
+background-repeat: no repeat;
+}}
+
+[data-testid="stHeader"]{{
+background-image: url("https://cdn.pixabay.com/photo/2019/04/24/11/27/flowers-4151900_960_720.jpg");
+background-size: cover;
+background-repeat: no repeat;
+}}
+
+[data-testid="stSidebar"]{{
+background-image: url("https://static.vecteezy.com/system/resources/previews/000/235/624/original/cute-soft-color-subtle-pattern-background-vector.jpg");
+background-size: cover;
+background-repeat: no repeat;
+}}
+</style>
+"""
 import numpy as np
 import pandas as pd
 import os
