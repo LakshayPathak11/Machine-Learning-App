@@ -2,19 +2,19 @@ import streamlit as st
 page_image_bg = f"""
 <style>
 [data-testid="stAppViewContainer"]{{
-background-image: url("https://cdn.pixabay.com/photo/2019/04/24/11/27/flowers-4151900_960_720.jpg");
+background-image: url("https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/77823Deep-Learning-vs-Machine-Learning.jpg");
 background-size: cover;
 background-repeat: no repeat;
 }}
 
 [data-testid="stHeader"]{{
-background-image: url("https://cdn.pixabay.com/photo/2019/04/24/11/27/flowers-4151900_960_720.jpg");
+background-image: url("https://i.gifer.com/9B9p.gif");
 background-size: cover;
 background-repeat: no repeat;
 }}
 
 [data-testid="stSidebar"]{{
-background-image: url("https://static.vecteezy.com/system/resources/previews/000/235/624/original/cute-soft-color-subtle-pattern-background-vector.jpg");
+background-image: url("https://www.analyticsinsight.net/wp-content/uploads/2021/08/How-Companies-are-Using-Artificial-Intelligence.jpg");
 background-size: cover;
 background-repeat: no repeat;
 }}
