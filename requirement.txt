@@ -1,10 +1,4 @@
 streamlit 
-numpy 
-pandas
-seaborn
-matplotlib
 pandas_profiling
 streamlit_pandas_profiling
 pycaret
-
-
