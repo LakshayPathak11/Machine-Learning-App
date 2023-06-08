@@ -32,7 +32,7 @@ import pycaret
 from pycaret.classification import setup, compare_models, pull, save_model, ClassificationExperiment
 from pycaret.regression import setup, compare_models, pull, save_model, RegressionExperiment
 
-st.image("MachineLearning.jpg")
+st.image("MachineLearning.jpg",width="500")
 st.title("Machine Learning App using PyCaret")
 
 if os.path.exists("sourcev.csv"):
