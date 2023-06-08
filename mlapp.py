@@ -2,7 +2,7 @@ import streamlit as st
 page_image_bg = f"""
 <style>
 [data-testid="stAppViewContainer"]{{
-background-image: url("https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/77823Deep-Learning-vs-Machine-Learning.jpg");
+background-image: url("https://miro.medium.com/v2/resize:fit:1080/1*Z_-lE3mQOr4WKudO37gihQ.gif");
 background-size: cover;
 background-repeat: no repeat;
 }}
